@@ -1,0 +1,68 @@
+h1 {
+font-size: 100px;
+color:rgb(207, 140, 216);
+text-align:center;
+}
+blockquote {
+font-size:2.5em;
+font-family:italic;
+color:rgb(90, 64, 105);
+text-align:center;
+}
+#main-nav {
+    font-size:1.3em;
+    font-family:'Courier New', Courier, monospace;
+    text-align:center;
+}
+#main-nav a,#main-nav a:visited {
+    text-decoration: none;
+}
+#main-nav a:hover,
+#main-nav a:focus,
+#main-nav a:active {
+    text-decoration:underline;
+}
+.heading {
+    color:rgb(226, 213, 222);
+}
+body {
+background-color: rgb(226, 213, 222);
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.right-logo {
+    float:right;
+    width:200px;
+    height:100px;
+}
+.left-logo {
+    float:left;
+    width:200px;
+    height:100px;
+}
+.self-pic {
+    width:300px;
+    height:400px;
+}
+h2 {
+    font-size: 2em;
+    text-align: center;
+
+}
+p {
+    text-align: center;
+}
+h5 {
+    text-align:center;
+
+}
+.img-examples {
+    width:450px;
+    height:350px;
+}
+ol {
+    font-size:2em;
+}
+h3 {
+    text-align:center;
+    font-size:2.3em;
+}
