@@ -1,0 +1,43 @@
+
+h2 {
+    font-size:35px;
+    color:grey;
+
+}
+article {
+    width: 600px;
+    padding:20px;
+    margin:10px;
+}
+#side-quote {
+    width: 40%;
+	float:right;
+	background-color: rgb(199, 199, 199);
+    color: rgb(75, 163, 197);
+	font-size: 1.6em;
+    min-height: 50px;
+    padding:20px;
+}
+.thumbs img {
+    margin:10px;
+}
+.thumbs {
+    padding-left: 20px;
+}
+#links {
+    padding:0px;
+}
+.info {
+    padding:0px;
+}
+.mewar-fest {
+    text-align: center;
+}
+.Hindu-women {
+    text-align:center;
+    margin-top: 275px;
+}
+.p1 {
+    width: 250px;
+    text-align: center;
+}
