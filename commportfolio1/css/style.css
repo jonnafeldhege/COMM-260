@@ -1,0 +1,111 @@
+h1 {
+font-size: 100px;
+color:rgb(0, 0, 0);
+float:left;
+padding-left:20px;
+}
+blockquote {
+    clear:both;
+font-size:2.5em;
+font-family:italic;
+color:rgb(65, 82, 69);
+text-align:center;
+}
+#main-nav {
+    font-size:1.3em;
+    font-family:'Courier New', Courier, monospace;
+    text-align:center;
+
+}
+#main-nav a,#main-nav a:visited {
+    text-decoration: none;
+}
+#main-nav a:hover,
+#main-nav a:focus,
+#main-nav a:active {
+    text-decoration:underline;
+}
+.heading {
+    color:rgb(65, 82, 69);
+}
+#body-main {
+background-color: rgb(226, 213, 222);
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background-image: url(../img/5ece6a43adbc45a65065952b984fa0cb.jpg);
+}
+
+.left-logo {
+    
+    width:200px;
+    height:130px;
+    position: absolute;
+    padding:20px;
+}
+.self-pic {
+    width:300px;
+    height:400px;
+}
+h2 {
+    font-size: 2em;
+    text-align: center;
+
+}
+p {
+    text-align: center;
+}
+h5 {
+    text-align:center;
+
+}
+.img-examples {
+    width:450px;
+    height:350px;
+    padding-left:10px;
+}
+ol {
+    font-size:2em;
+    padding-left:10px;
+}
+h3 {
+    text-align:center;
+    font-size:2.3em;
+}
+.about-images {
+    width:350px;
+    height:450px; 
+    margin:30px;
+    margin-top:25px;
+}
+#about-body {
+    margin: 0px;
+	padding: 0px 25px;
+	width: 90%;
+	margin-bottom: 30px;
+    background-color:rgb(214, 160, 129);
+}
+#about-p {
+    text-align: center;
+    margin:20px;
+    padding:10px;
+
+}
+#b-home {
+    clear:both;
+}
+footer{
+    padding:10px;
+    clear:both;
+}
+#exp-body {
+    background-color:rgb(214, 160, 129);
+}
+#proj-body {
+    background-color: rgb(214, 160, 129);
+    
+}
+#proj-ol {
+    Text-align:center;
+}
+#opening {
+    font-size: 20px;
+}
