@@ -10,7 +10,7 @@ font-family:cursive;
 color:rgb(65, 82, 69);
 text-align:center;
 }
-#main-nav {
+.main-nav {
     font-size:1.3em;
     font-family:'Courier New', Courier, monospace;
     text-align:center;
@@ -21,12 +21,12 @@ text-align:center;
 	color: #efefef;
 	border: 1px solid #fff;
 }
-#main-nav a,#main-nav a:visited {
+.main-nav a,#main-nav a:visited {
     text-decoration: none;
 }
-#main-nav a:hover,
-#main-nav a:focus,
-#main-nav a:active {
+.main-nav a:hover,
+.main-nav a:focus,
+.main-nav a:active {
     text-decoration:underline;
 	
 #home {
@@ -44,7 +44,7 @@ text-align:center;
 .heading {
     color:rgb(65, 82, 69);
 }
-#body-main {
+.body-main {
 background-color: rgba(226, 213, 222);
 font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 background-image: url(../img/rm281-adj-067.jpg);
