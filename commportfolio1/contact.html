@@ -1,0 +1,59 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Portfolio Website</title>
+        <link href="css/style.css" rel="stylesheet" type="text/css">
+
+    </head>
+<body id="proj-body">
+    <header>
+        <h1>Jonna Feldhege
+            <img class="left-logo" src="img/Jonna Feldhege.png" alt="JF logo">
+        </h1>
+    </header>
+    <nav id="main-nav">
+        <ul>
+            <a id="home" href="comm260porfolio.html">Home</a> 
+            <a id="about" href="about.html">About Me</a> 
+            <a id="exp" href="experience.html">Experience</a> 
+            <a id="proj" href="projects.html">Projects</a> 
+        </ul>
+    </nav>
+    
+        <h3 id="titles">Contact Me!</h3>
+        <p id="b-home"> 
+           
+        </p>
+  
+<form action="mail.php" method="POST">
+<p>Name</p> <input type="text" name="name">
+<p>Email</p> <input type="text" name="email">
+<p>Phone</p> <input type="text" name="phone">
+
+<p>Request Phone Call:</p>
+Yes:<input type="checkbox" value="Yes" name="call"><br />
+No:<input type="checkbox" value="No" name="call"><br />
+
+<p>Website</p> <input type="text" name="website">
+
+<p>Priority</p>
+<select name="priority" size="1">
+<option value="Low">Low</option>
+<option value="Normal">Normal</option>
+<option value="High">High</option>
+<option value="Emergency">Emergency</option>
+</select>
+<br />
+
+<p>Type</p>
+<select name="type" size="1">
+<option value="update">Website Update</option>
+<option value="change">Information Change</option>
+<option value="addition">Information Addition</option>
+<option value="new">New Products</option>
+</select>
+<br />
+
+<p>Message</p><textarea name="message" rows="6" cols="25"></textarea><br />
+<input type="submit" value="Send"><input type="reset" value="Clear">
+</form>
