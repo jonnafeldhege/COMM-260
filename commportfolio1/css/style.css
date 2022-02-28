@@ -1,7 +1,6 @@
 h1 {
 font-size: 100px;
 color:rgb(180, 175, 156);
-
 padding-left:20px;
 }
 blockquote {
@@ -21,7 +20,6 @@ text-align:center;
 	display: block;
 	color: #efefef;
 	border: 1px solid #fff;
-
 }
 #main-nav a,#main-nav a:visited {
     text-decoration: none;
