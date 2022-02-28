@@ -10,25 +10,6 @@ font-family:cursive;
 color:rgb(65, 82, 69);
 text-align:center;
 }
-#main-nav {
-    font-size:1.3em;
-    font-family:'Courier New', Courier, monospace;
-    text-align:center;
-    border:oldlace;
-    border-width:1 px;
-	padding: 5px;
-	display: block;
-	color: #efefef;
-	border: 1px solid #fff;
-}
-#main-nav a,#main-nav a:visited {
-    text-decoration: none;
-}
-#main-nav a:hover,
-#main-nav a:focus,
-#main-nav a:active {
-    text-decoration:underline;
-}
 #main-nav ul{
     list-style: none;
     margin-top: 2%;
