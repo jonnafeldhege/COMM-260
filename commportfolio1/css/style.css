@@ -19,14 +19,14 @@ text-align:center;
     margin-top: 2%;
 }
 .nav ul li{
-    background:white;
+    background:beige;
     width:200px;
-    border:1px solid beige;
+    border:1px solid white;
     line-height:50px;
     height:50px;
     text-align:center;
-    float:left;
-    color:pink;
+    
+    color:white;
     font-size:14px;
     position: relative;
     font-family: 'Courier New', Courier, monospace;
