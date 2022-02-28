@@ -10,11 +10,15 @@ font-family:cursive;
 color:rgb(65, 82, 69);
 text-align:center;
 }
-#main-nav ul{
+.nav {
+    width:860px;
+    margin: 0 auto;
+}
+.nav ul{
     list-style: none;
     margin-top: 2%;
 }
-#main-nav ul li{
+.nav ul li{
     background:beige;
     width:170px;
     border:1px solid brown;
@@ -27,16 +31,16 @@ text-align:center;
     position: relative;
     font-family: 'Courier New', Courier, monospace;
 }
-#main-nav ul li:hover{
+.nav ul li:hover{
     background:pink;
 }
-#main-nav ul ul{
+.nav ul ul{
     display:none;
 }
-#main-nav ul li:hover > ul{
+.nav ul li:hover > ul{
     display:block;
 }
-#main-nav ul ul ul{
+.nav ul ul ul{
     margin-left: 170px;
     top:0;
     position:absolute;
