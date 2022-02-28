@@ -30,8 +30,45 @@ text-align:center;
 #main-nav a:focus,
 #main-nav a:active {
     text-decoration:underline;
-
+#main-nav ul {
+	list-style: none;
+	margin-top:2%;
 }
+	.nav {
+    width:860px;
+    margin: 0 auto;
+}
+#main-nav ul{
+    list-style: none;
+    margin-top: 2%;
+}
+#main-nav ul li{
+    background:beige;
+    width:170px;
+    border:1px solid brown;
+    line-height:50px;
+    height:50px;
+    text-align:center;
+    float:left;
+    color:brown;
+    font-size:14px;
+    position: relative;
+    font-family: 'Courier New', Courier, monospace;
+}
+#main-nav ul li:hover{
+    background:pink;
+}
+#main-nav ul ul{
+    display:none;
+}
+#main-nav ul li:hover > ul{
+    display:block;
+}
+#main-nav ul ul ul{
+    margin-left: 170px;
+    top:0;
+    position:absolute;
+	
 #home {
     Padding: 75px;
 }
