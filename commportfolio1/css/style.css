@@ -293,6 +293,6 @@ color: white;
     opacity: 1;
     transform: none;
   }
-}.animate-pop-in {
+}.animate-pop-in { 
   animation: pop-in .6s ease-out forwards;
 }
