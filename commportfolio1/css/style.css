@@ -284,3 +284,15 @@ th {
 background-color: rgb(82, 82, 78);
 color: white;
 }
+@keyframes pop-in {
+  0% {
+    opacity: 0;
+    transform: translateY(-4rem) scale(.8);
+  }
+  100% {
+    opacity: 1;
+    transform: none;
+  }
+}.animate-pop-in {
+  animation: pop-in .6s ease-out forwards;
+}
