@@ -270,8 +270,8 @@ video {
   }
 table {
  border-collapse: collapse;
- margin:30px;
-float:left;
+margin-left:auto;
+marigin right:auto;
 }
 td, th {
   border: 1px solid #999;
