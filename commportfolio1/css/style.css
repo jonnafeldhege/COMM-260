@@ -166,7 +166,7 @@ video {
 }
   form {
   width: 100%; 
-  padding: 12px; 
+  padding: 50px; 
   border: 1px solid #ccc; 
   border-radius: 4px; 
   box-sizing: border-box; 
@@ -193,6 +193,7 @@ video {
   }
 table {
   border-collapse: collapse;
+ margin:10px;
 }
 td, th {
   border: 1px solid #999;
