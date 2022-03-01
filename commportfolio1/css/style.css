@@ -269,9 +269,9 @@ video {
 }
   }
 table {
- border-collapse: collapse;
+border-collapse: collapse;
 margin-left:auto;
-marigin right:auto;
+marigin-right:auto;
 }
 td, th {
   border: 1px solid #999;
