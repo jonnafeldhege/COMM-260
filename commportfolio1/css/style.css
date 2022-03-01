@@ -269,10 +269,9 @@ video {
 }
   }
 table {
-  border-collapse: collapse;
+ border-collapse: collapse;
  margin:30px;
-	text-align:center;
-	float: left;
+float:left;
 }
 td, th {
   border: 1px solid #999;
