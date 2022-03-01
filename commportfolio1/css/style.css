@@ -183,7 +183,7 @@ video {
   }
   
   form label {
-    margin-bottom: 15px;
+    margin: 15px;
   }
   fieldset {
       padding: 30px;
