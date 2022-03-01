@@ -166,7 +166,7 @@ video {
 	float: left;
 }
   form {
-    margin-bottom: 40px;
+    margin: 40px;
     display: flex;
     justify-content: flex-start;
     flex-direction: column;
