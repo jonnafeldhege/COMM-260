@@ -194,14 +194,14 @@ video {
 table {
   border-collapse: collapse;
 }
-
 td, th {
   border: 1px solid #999;
   padding: 0.5rem;
   text-align: left;
 }
-td:hover {   background:aqua}
+td:hover {  
+background:pink}
 th {
-    background-color: rgb(82, 82, 78);
-    color: white;
+background-color: rgb(82, 82, 78);
+color: white;
 }
