@@ -270,8 +270,7 @@ video {
   }
 table {
 border-collapse: collapse;
-margin-left:auto;
-marigin-right:auto;
+margin:30px;
 
 }
 td, th {
