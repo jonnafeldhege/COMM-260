@@ -268,10 +268,11 @@ video {
   }
 }
   }
-.table {
+table {
 border-collapse: collapse;
 margin-left:auto;
 marigin-right:auto;
+
 }
 td, th {
   border: 1px solid #999;
