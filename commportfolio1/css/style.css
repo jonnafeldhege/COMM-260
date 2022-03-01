@@ -12,8 +12,7 @@ text-align:center;
 }
 .nav {
     width:80%;
-    display:inline-block;
-    margin: 0 auto;
+    display:inline;
 }
 .nav ul{
     list-style: none;
@@ -272,6 +271,7 @@ video {
 table {
   border-collapse: collapse;
  margin:10px;
+	text-align:center;
 }
 td, th {
   border: 1px solid #999;
